@@ -1,12 +1,12 @@
 # whatsapp-server
 
-=================
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[![Fork It](https://img.shields.io/github/forks/selene466/GO-whatsapp-server?style=social)](https://github.com/selene466/GO-whatsapp-server/fork)
+<!-- markdownlint-disable MD013 -->
 
-[![Star It](https://img.shields.io/github/stars/selene466/GO-whatsapp-server?style=social)](https://github.com/selene466/GO-whatsapp-server/stargazers)
+[![Fork It](https://img.shields.io/github/forks/selene466/GO-whatsapp-server?style=social)](https://github.com/selene466/GO-whatsapp-server/fork) [![Star It](https://img.shields.io/github/stars/selene466/GO-whatsapp-server?style=social)](https://github.com/selene466/GO-whatsapp-server/stargazers)
+
+<!-- markdownlint-enable MD013 -->
 
 Ready to use WhatsApp server from WhatsApp Web API.
 
