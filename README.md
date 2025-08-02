@@ -1,5 +1,13 @@
 # whatsapp-server
 
+=================
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+[![Fork It](https://img.shields.io/github/forks/selene466/GO-whatsapp-server?style=social)](https://github.com/selene466/GO-whatsapp-server/fork)
+
+[![Star It](https://img.shields.io/github/stars/selene466/GO-whatsapp-server?style=social)](https://github.com/selene466/GO-whatsapp-server/stargazers)
+
 Ready to use WhatsApp server from WhatsApp Web API.
 
 Thanks to:
@@ -106,6 +114,12 @@ Login status:
 
 ```sh
 curl -X GET http://localhost:40040/api/status
+```
+
+Login restart:
+
+```sh
+curl -X GET http://localhost:40040/api/restart
 ```
 
 Send message, message must be encoded in URL (URL encode):
